@@ -1,7 +1,7 @@
 {
   "name": "tempo",
   "version": "0.1.0",
-  "homepage": "https://joaop92.github.io/climatempo",
+  "homepage": "https://joaop92.github.io/apitempo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
